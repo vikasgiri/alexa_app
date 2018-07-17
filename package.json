@@ -1,0 +1,7 @@
+{
+  "name": "hello_world",
+  "version": "1.0.0",
+  "description": "A sample Alexa app with alexa-app-server.",
+  "main": "server.js"
+  
+}
