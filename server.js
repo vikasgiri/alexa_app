@@ -1,4 +1,4 @@
-var AlexaAppServer = require("alexa-app-server");
+var AlexaAppServer = require("../index.js");
 
 AlexaAppServer.start({
   server_root: './',
